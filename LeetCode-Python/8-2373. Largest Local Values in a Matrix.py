@@ -13,3 +13,4 @@ class Solution(object):
                     for c in range(j, j + 3):
                         maxLocal[i][j] = max(maxLocal[i][j], grid[r][c])
         return maxLocal
+    
