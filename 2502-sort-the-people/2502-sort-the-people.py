@@ -5,35 +5,39 @@ class Solution(object):
         :type heights: List[int]
         :rtype: List[str]
         """
-        #INSERTION SORT
+        #SELECTION SORT
         length = len(heights)
 
-        for i in range(1, length):
-            h_key = heights[i]
-            n_key = names[i]
-            j = i - 1
+        for i in range(length - 1):
+            min_pos = i
 
-            while(j >= 0 and heights[j] < h_key):
-                heights[j + 1] = heights[j]
-                names[j + 1] = names[j]
-                j = j - 1
-            heights[j + 1] = h_key
-            names[j + 1] = n_key
-
+            for j in range(i + 1, length):
+                if heights[j] > heights[min_pos]:
+                    min_pos = j
+            if (min_pos != i):
+                heights[i], heights[min_pos] = heights[min_pos], heights[i]
+                names[i], names[min_pos] = names[min_pos], names[i]
+        
         return names
-        
-        #SELECTION SORT
+
+
+        #INSERTION SORT
         # length = len(heights)
-        # for i in range(0, length - 1):
-        #     cur_idx = i
-        #     for j in range(i + 1, length):
-        #         if heights[j] > heights[cur_idx]:
-        #             cur_idx = j
-        #     if i != cur_idx:
-        #         heights[i], heights[cur_idx] = heights[cur_idx],heights[i]
-        #         names[i], names[cur_idx] = names[cur_idx], names[i]
+
+        # for i in range(1, length):
+        #     h_key = heights[i]
+        #     n_key = names[i]
+        #     j = i - 1
+
+        #     while(j >= 0 and heights[j] < h_key):
+        #         heights[j + 1] = heights[j]
+        #         names[j + 1] = names[j]
+        #         j = j - 1
+        #     heights[j + 1] = h_key
+        #     names[j + 1] = n_key
+
         # return names
-        
+    
         
         #BUBBLE SORT
         # length = len(heights)
