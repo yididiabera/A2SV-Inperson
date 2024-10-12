@@ -16,6 +16,7 @@ A Competitive Programming
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ A Competitive Programming
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
