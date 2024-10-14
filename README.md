@@ -16,10 +16,12 @@ A Competitive Programming
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -55,5 +57,6 @@ A Competitive Programming
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
