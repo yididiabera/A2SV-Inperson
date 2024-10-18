@@ -10,6 +10,7 @@ A Competitive Programming
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
@@ -22,6 +23,7 @@ A Competitive Programming
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -90,6 +92,7 @@ A Competitive Programming
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
