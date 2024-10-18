@@ -12,6 +12,7 @@ A Competitive Programming
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
+| [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -87,6 +88,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
 | ------- |
