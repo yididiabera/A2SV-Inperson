@@ -6,6 +6,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
+| [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
@@ -106,4 +107,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
