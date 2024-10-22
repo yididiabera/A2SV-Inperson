@@ -42,6 +42,7 @@ A Competitive Programming
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/3379-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
