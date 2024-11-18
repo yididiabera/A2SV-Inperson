@@ -5,9 +5,12 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        n = len(nums)
-        nums.sort()
-        return nums[n - k]
+        nums.sort(reverse=True)
+        return nums[k -1]
+
+        # n = len(nums)
+        # nums.sort()
+        # return nums[n - k]
 
         # k = len(nums) - k
         # def quickSelect(l, r):
