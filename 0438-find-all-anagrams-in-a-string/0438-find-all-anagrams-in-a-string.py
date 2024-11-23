@@ -1,27 +1,25 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         result = []
-        target_counts = Counter(p)
-        window_counts = Counter(s[:len(p)])  # Initialize window with the first l  (p) characters
+        k = len(p)
 
-        # Start checking from index len(p) to len(s)
-        for i in range(len(p), len(s)):
-            # Check if the current window matches the target
-            if window_counts == target_counts:
-                result.append(i - len(p))
-            
-            # Slide the window by removing the leftmost character and adding the new character
-            window_counts[s[i]] += 1
-            window_counts[s[i - len(p)]] -= 1
-            
-            if window_counts[s[i - len(p)]] == 0:
-                del window_counts[s[i - len(p)]]
-        
-        # Check the last window
-        if window_counts == target_counts:
-            result.append(len(s) - len(p))
+        target = Counter(p)
+        window = Counter(s[:k])
+        if target == window:
+            result.append(0)
 
+        for i in range(k, len(s)):
+            cur_char = s[i]
+            window[s[i]] += 1
+            
+            window[s[i - k]] -= 1
+            if window[s[i - k]] == 0:
+                del window[s[i - k]]
+            
+            if target == window:
+                result.append(i - k + 1)
         return result
+
 
  
         # result = []
