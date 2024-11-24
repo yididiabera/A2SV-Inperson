@@ -1,15 +1,11 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
         window = collections.Counter()
-        l = 0
+        l = 0 
         _max = 0
 
         for r in range(len(s)):
-            window[s[r]] += 1
+            window[s[r]]+= 1
 
             while window[s[r]] > 1:
                 window[s[l]] -= 1
