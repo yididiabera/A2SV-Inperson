@@ -3,20 +3,14 @@ class Solution:
         k = len(s1)
         n = len(s2)
 
-        s1_count = Counter(s1)
-        window_count = Counter(s2[:k])
+        target = Counter(s1)
+        window = Counter(s2[:k - 1])
 
-        if s1_count == window_count:
-            return True
-        
-        for i in range(k, n):
-            window_count[s2[i]] += 1
-            window_count[s2[i - k]] -= 1
-            
-            # if window_count[s2[i - k]] == 0:
-            #     del window_count[s2[i - k]]
-            
-            if s1_count == window_count:
+        for i in range(k - 1, n):
+            window[s2[i]] += 1
+
+            if target == window:
                 return True
-        
+            
+            window[s2[i - k + 1]] -= 1
         return False
