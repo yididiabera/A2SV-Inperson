@@ -44,6 +44,7 @@ A Competitive Programming
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -94,6 +95,7 @@ A Competitive Programming
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -102,12 +104,14 @@ A Competitive Programming
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
