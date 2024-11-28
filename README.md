@@ -21,6 +21,7 @@ A Competitive Programming
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A Competitive Programming
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A Competitive Programming
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A Competitive Programming
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
