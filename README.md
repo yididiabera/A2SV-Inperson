@@ -81,6 +81,7 @@ A Competitive Programming
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -108,6 +109,7 @@ A Competitive Programming
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
