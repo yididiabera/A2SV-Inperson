@@ -16,6 +16,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yididiabera/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
@@ -160,4 +161,12 @@ A Competitive Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
