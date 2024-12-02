@@ -17,7 +17,7 @@ class Solution(object):
             curSum += nums[r]
 
             if r - l + 1 > k:
-                window[nums[l]] = window.get(nums[l], 0) - 1
+                window[nums[l]] -= 1
                 if window[nums[l]] == 0:
                     del window[nums[l]]
                 curSum -= nums[l]
