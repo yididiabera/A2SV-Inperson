@@ -24,6 +24,7 @@ A Competitive Programming
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
@@ -77,6 +78,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
