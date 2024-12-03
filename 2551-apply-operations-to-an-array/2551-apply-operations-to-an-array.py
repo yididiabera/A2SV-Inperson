@@ -7,13 +7,30 @@ class Solution(object):
         #iterate over the entire array
         #check if the current element and the previous one are equal or not
         #if they are equal mulitply the prev element by 2 and make the current zero
-        for i in range(len(nums) - 1):
-            if nums[i] == nums[i + 1]:
-                nums[i] *= 2
-                nums[i + 1] = 0
+        n = len(nums)
         l = 0
-        for r in range(len(nums)):
+        for r in range(n):
+            if r < n - 1 and nums[r] == nums[r + 1]:
+                nums[r] *= 2
+                nums[r + 1] = 0
             if nums[r]:
-                nums[l], nums[r] = nums[r], nums[l]
+                nums[l] = nums[r]
+                if l != r:
+                    nums[r] = 0
                 l += 1
         return nums
+        
+        
+        # n = len(nums)
+        # l = 0
+        # for r in range(len(nums)):
+        #     if r < n - 1 and nums[r] == nums[r + 1]:
+        #         nums[r] *= 2
+        #         nums[r + 1] = 0
+            
+        #     if nums[r]:
+        #         nums[l] = nums[r]
+        #         if l != r:
+        #             nums[r] = 0
+        #         l += 1
+        # return nums
