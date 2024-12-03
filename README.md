@@ -8,6 +8,7 @@ A Competitive Programming
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -70,6 +72,7 @@ A Competitive Programming
 | ------- |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
@@ -79,6 +82,7 @@ A Competitive Programming
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -145,6 +149,7 @@ A Competitive Programming
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Math
