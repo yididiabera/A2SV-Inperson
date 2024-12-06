@@ -58,6 +58,7 @@ A Competitive Programming
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/yididiabera/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/yididiabera/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
