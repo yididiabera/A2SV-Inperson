@@ -6,6 +6,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A Competitive Programming
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
@@ -176,6 +178,7 @@ A Competitive Programming
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
