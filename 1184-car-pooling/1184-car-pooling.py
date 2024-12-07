@@ -5,11 +5,25 @@ class Solution(object):
         :type capacity: int
         :rtype: bool
         """
-        total = [0] * 1001
+        dif = [0] * 1001
+
         for passenger, start, end in trips:
-            for i in range(start, end):
-                total[i] += passenger
-                if total[i] > capacity:
-                    return False
+            dif[start] += passenger
+            dif[end] -= passenger
+        
+        curPassenger = 0
+        for passenger in dif:
+            curPassenger += passenger
+            if curPassenger > capacity:
+                return False
         return True
+
+        
+        # total = [0] * 1001
+        # for passenger, start, end in trips:
+        #     for i in range(start, end):
+        #         total[i] += passenger
+        #         if total[i] > capacity:
+        #             return False
+        # return True
 
