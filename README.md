@@ -5,6 +5,7 @@ A Competitive Programming
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A Competitive Programming
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
@@ -112,6 +114,7 @@ A Competitive Programming
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
