@@ -43,6 +43,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yididiabera/Competitive-Programming/tree/master/0058-length-of-last-word) |
@@ -187,6 +189,7 @@ A Competitive Programming
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
