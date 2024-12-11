@@ -19,6 +19,7 @@ A Competitive Programming
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yididiabera/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -49,6 +50,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -214,6 +216,7 @@ A Competitive Programming
 | [0020-valid-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/yididiabera/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/yididiabera/Competitive-Programming/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -239,4 +242,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
