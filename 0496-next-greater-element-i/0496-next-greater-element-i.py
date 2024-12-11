@@ -3,14 +3,20 @@ class Solution:
         # nums1 = [4, 1, 2]   nums2 = [1, 3, 4, 2]
         n = len(nums1)
         m = len(nums2)
-        result = [-1] * n
-        
+        result = []
         for i in range(n):
             found = False
             for j in range(m):
                 if nums1[i] == nums2[j]:
-                    found = True
-                if found and nums2[j] > nums1[i]:
-                    result[i] = nums2[j]
-                    break
+                    index = j
+                    while index < m:
+                        if nums2[index] > nums1[i]:
+                            result.append(nums2[index])
+                            found = True
+                            break
+                        index += 1
+                        
+                    if not found:
+                        result.append(-1)
+                    # break
         return result
