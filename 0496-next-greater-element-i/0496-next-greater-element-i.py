@@ -5,18 +5,14 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        nums1Idx = {}
-        for i, value in enumerate(nums1):
-            nums1Idx[value] = i
-        
-        result = [-1] * len(nums1)
-        m = len(nums2)
-        for i in range(m):
-            if nums2[i] not in nums1Idx:
-                continue
-            for j in range(i + 1, m):
-                if nums2[j] > nums2[i]:
-                    idx = nums1Idx[nums2[i]]
-                    result[idx] = nums2[j]
-                    break
-        return result
+        stack = []
+        next_greater = {}
+
+        for num in nums2:
+            while stack and num > stack[-1]:
+                top = stack.pop()
+                next_greater[top] = num
+            stack.append(num)
+        while stack:
+            next_greater[stack.pop()] = -1
+        return [next_greater[num] for num in nums1]
