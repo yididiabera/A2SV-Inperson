@@ -1,7 +1,5 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        #create a hashmap to store next greater number for each number
-        #crete a stack to keep track of the numbers whose next greater number is not found yet
         n = len(temperatures)
         result = [0] * n
         stack = []
@@ -11,7 +9,6 @@ class Solution:
                 prevIdx = stack.pop()
                 result[prevIdx] = i - prevIdx
             stack.append(i)
-        
         return result
 
         # for i in range(n):
