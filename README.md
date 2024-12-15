@@ -185,6 +185,7 @@ A Competitive Programming
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
