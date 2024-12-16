@@ -51,6 +51,7 @@ A Competitive Programming
 | [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -76,6 +77,7 @@ A Competitive Programming
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yididiabera/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/yididiabera/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -101,6 +103,7 @@ A Competitive Programming
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
