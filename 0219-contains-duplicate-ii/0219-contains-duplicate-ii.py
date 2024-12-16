@@ -5,15 +5,23 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        windows = set()
-        l = 0
+        if k == 0 or not nums:
+            return False
+        
+        window = {}
+        k = min(k, len(nums))  # Ensure k is within nums length
 
-        for r in range(len(nums)):
-            if nums[r] in windows:
+        for i in range(k):
+            if nums[i] in window:
                 return True
-            windows.add(nums[r])
-
-            if r - l + 1 > k:
-                windows.remove(nums[l])
-                l += 1
+            window[nums[i]] = window.get(nums[i], 0) + 1
+        
+        for i in range(k, len(nums)):
+            if nums[i] in window:
+                return True
+            window[nums[i]] = window.get(nums[i], 0) + 1
+            window[nums[i - k]] -= 1
+            if window[nums[i - k]] == 0:
+                del window[nums[i - k]]
+        
         return False
