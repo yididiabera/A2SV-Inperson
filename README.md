@@ -21,6 +21,7 @@ A Competitive Programming
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yididiabera/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@ A Competitive Programming
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
