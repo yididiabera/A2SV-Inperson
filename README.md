@@ -57,6 +57,7 @@ A Competitive Programming
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -86,6 +87,7 @@ A Competitive Programming
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -112,6 +114,7 @@ A Competitive Programming
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -229,6 +232,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
 |  |
