@@ -248,6 +248,7 @@ A Competitive Programming
 | [0071-simplify-path](https://github.com/yididiabera/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yididiabera/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yididiabera/Competitive-Programming/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -264,11 +265,13 @@ A Competitive Programming
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yididiabera/Competitive-Programming/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/yididiabera/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
