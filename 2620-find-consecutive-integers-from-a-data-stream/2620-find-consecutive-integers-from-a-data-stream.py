@@ -8,20 +8,20 @@ class DataStream(object):
         self.value = value
         self.k = k
         self.count = 0
-        
+        self.stream = []
 
     def consec(self, num):
         """
         :type num: int
         :rtype: bool
         """
+        self.stream.append(num)
         if num == self.value:
             self.count += 1
         else:
             self.count = 0
-        return self.count >= self.k
         
-
+        return self.count >= self.k
         
 
 
