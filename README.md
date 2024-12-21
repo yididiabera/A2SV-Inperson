@@ -57,6 +57,7 @@ A Competitive Programming
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -87,6 +88,7 @@ A Competitive Programming
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -212,6 +214,7 @@ A Competitive Programming
 | ------- |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -276,6 +279,7 @@ A Competitive Programming
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yididiabera/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
