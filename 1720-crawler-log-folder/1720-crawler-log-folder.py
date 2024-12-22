@@ -9,4 +9,5 @@ class Solution:
                 continue
             else:
                 stack.append(logs[i])
+        print(stack)
         return len(stack)
