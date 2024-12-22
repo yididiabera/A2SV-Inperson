@@ -104,6 +104,7 @@ A Competitive Programming
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/3379-score-of-a-string) |
 ## Sorting
@@ -258,12 +259,14 @@ A Competitive Programming
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yididiabera/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
+| [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 ## Design
 |  |
