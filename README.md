@@ -83,6 +83,7 @@ A Competitive Programming
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/yididiabera/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yididiabera/Competitive-Programming/tree/master/0058-length-of-last-word) |
@@ -306,4 +307,8 @@ A Competitive Programming
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yididiabera/Competitive-Programming/tree/master/0739-daily-temperatures) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yididiabera/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
