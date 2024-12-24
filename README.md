@@ -94,6 +94,7 @@ A Competitive Programming
 | [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
@@ -261,6 +262,7 @@ A Competitive Programming
 | [0155-min-stack](https://github.com/yididiabera/Competitive-Programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yididiabera/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
@@ -316,4 +318,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yididiabera/Competitive-Programming/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
