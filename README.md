@@ -30,6 +30,7 @@ A Competitive Programming
 | [0713-subarray-product-less-than-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yididiabera/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yididiabera/Competitive-Programming/tree/master/0739-daily-temperatures) |
+| [0777-toeplitz-matrix](https://github.com/yididiabera/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0878-shifting-letters](https://github.com/yididiabera/Competitive-Programming/tree/master/0878-shifting-letters) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
@@ -322,4 +323,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
+## Matrix
+|  |
+| ------- |
+| [0777-toeplitz-matrix](https://github.com/yididiabera/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 <!---LeetCode Topics End-->
