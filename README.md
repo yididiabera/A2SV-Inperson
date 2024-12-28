@@ -239,6 +239,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
@@ -327,4 +328,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/yididiabera/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
