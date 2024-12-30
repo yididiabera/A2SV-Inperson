@@ -243,6 +243,7 @@ A Competitive Programming
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yididiabera/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
@@ -285,6 +286,7 @@ A Competitive Programming
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/yididiabera/Competitive-Programming/tree/master/3447-clear-digits) |
