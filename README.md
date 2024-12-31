@@ -115,6 +115,7 @@ A Competitive Programming
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/yididiabera/Competitive-Programming/tree/master/3447-clear-digits) |
