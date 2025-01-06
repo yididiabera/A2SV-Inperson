@@ -269,6 +269,7 @@ A Competitive Programming
 | ------- |
 | [0020-valid-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/yididiabera/Competitive-Programming/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yididiabera/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yididiabera/Competitive-Programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yididiabera/Competitive-Programming/tree/master/0225-implement-stack-using-queues) |
@@ -343,4 +344,16 @@ A Competitive Programming
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
