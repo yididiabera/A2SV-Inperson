@@ -247,6 +247,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yididiabera/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
@@ -294,6 +295,7 @@ A Competitive Programming
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
