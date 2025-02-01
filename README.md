@@ -113,6 +113,7 @@ A Competitive Programming
 | [1720-crawler-log-folder](https://github.com/yididiabera/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yididiabera/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yididiabera/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -297,6 +298,7 @@ A Competitive Programming
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/yididiabera/Competitive-Programming/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
