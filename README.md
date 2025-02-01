@@ -51,6 +51,7 @@ A Competitive Programming
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yididiabera/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3429-special-array-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
