@@ -44,6 +44,7 @@ A Competitive Programming
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yididiabera/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -78,6 +79,7 @@ A Competitive Programming
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yididiabera/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yididiabera/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -227,6 +229,7 @@ A Competitive Programming
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yididiabera/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 ## Counting
