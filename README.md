@@ -21,6 +21,7 @@ A Competitive Programming
 | [0238-product-of-array-except-self](https://github.com/yididiabera/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/yididiabera/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
@@ -63,6 +64,7 @@ A Competitive Programming
 | [0219-contains-duplicate-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
@@ -135,6 +137,7 @@ A Competitive Programming
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
@@ -148,16 +151,19 @@ A Competitive Programming
 | [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +242,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -367,4 +374,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
