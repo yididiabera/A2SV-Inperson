@@ -1,14 +1,10 @@
-class Solution(object):
-    def clearDigits(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+class Solution:
+    def clearDigits(self, s: str) -> str:
         stack = []
         for c in s:
-            if c.isdigit():
-                if stack:
-                    stack.pop()
+            if '0' <= c <= '9' and stack:
+                stack.pop()
             else:
                 stack.append(c)
+            print(stack)
         return "".join(stack)
