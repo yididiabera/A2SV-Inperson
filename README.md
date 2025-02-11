@@ -37,6 +37,7 @@ A Competitive Programming
 | [0777-toeplitz-matrix](https://github.com/yididiabera/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
 | [0878-shifting-letters](https://github.com/yididiabera/Competitive-Programming/tree/master/0878-shifting-letters) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
@@ -277,6 +278,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
@@ -386,6 +388,7 @@ A Competitive Programming
 | ------- |
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/yididiabera/Competitive-Programming/tree/master/0777-toeplitz-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 ## Number Theory
 |  |
 | ------- |
@@ -414,4 +417,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
