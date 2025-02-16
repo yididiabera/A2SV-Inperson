@@ -49,6 +49,7 @@ A Competitive Programming
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/yididiabera/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
@@ -430,4 +431,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
