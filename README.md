@@ -62,6 +62,7 @@ A Competitive Programming
 | [2448-count-number-of-bad-pairs](https://github.com/yididiabera/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yididiabera/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -173,6 +174,7 @@ A Competitive Programming
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -223,6 +225,7 @@ A Competitive Programming
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yididiabera/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A Competitive Programming
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/yididiabera/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 ## Counting
 |  |
