@@ -26,6 +26,7 @@ A Competitive Programming
 | [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
@@ -164,6 +165,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
@@ -294,6 +296,7 @@ A Competitive Programming
 | [0189-rotate-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
