@@ -139,6 +139,7 @@ A Competitive Programming
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yididiabera/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yididiabera/Competitive-Programming/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/yididiabera/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
@@ -452,6 +453,7 @@ A Competitive Programming
 ## Backtracking
 |  |
 | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yididiabera/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Linked List
 |  |
