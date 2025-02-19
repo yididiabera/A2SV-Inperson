@@ -407,6 +407,7 @@ A Competitive Programming
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -451,4 +452,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
