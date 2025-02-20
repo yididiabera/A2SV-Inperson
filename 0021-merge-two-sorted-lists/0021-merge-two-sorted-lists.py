@@ -15,11 +15,12 @@ class Solution:
                 temp.next = list2
                 list2 = list2.next
             temp = temp.next
-        if list1:
+        while list1:
             temp.next = list1
-            #list1 = list1.next
-        
-        if list2:
+            list1 = list1.next
+            temp = temp.next
+        while list2:
             temp.next = list2
-            #list2 = list2.next
+            list2 = list2.next
+            temp = temp.next
         return dummy.next
