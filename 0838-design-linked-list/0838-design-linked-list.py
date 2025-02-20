@@ -35,9 +35,11 @@ class MyLinkedList:
     def addAtTail(self, val: int) -> None:
         #print("addtail", self.dummy)
         new_node = Node(val)
-        temp = self.dummy
-        # if not temp:
-        #     d
+        temp = self.dummy.next  #why not self.dummy.next
+        if not temp:
+            self.dummy.next = new_node
+            return
+            
         while temp.next:
             temp = temp.next
         temp.next = new_node
