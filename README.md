@@ -377,6 +377,7 @@ A Competitive Programming
 | [0232-implement-queue-using-stacks](https://github.com/yididiabera/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/yididiabera/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
+| [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
@@ -461,5 +462,6 @@ A Competitive Programming
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
