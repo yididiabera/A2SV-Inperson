@@ -413,6 +413,7 @@ A Competitive Programming
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yididiabera/A2SV-Inperson/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
@@ -464,6 +465,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/yididiabera/A2SV-Inperson/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
