@@ -100,6 +100,7 @@ A Competitive Programming
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
@@ -387,6 +388,7 @@ A Competitive Programming
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -438,14 +440,17 @@ A Competitive Programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -480,4 +485,8 @@ A Competitive Programming
 | [0237-delete-node-in-a-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
