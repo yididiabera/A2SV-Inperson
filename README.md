@@ -142,6 +142,7 @@ A Competitive Programming
 | [0878-shifting-letters](https://github.com/yididiabera/Competitive-Programming/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/yididiabera/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -449,16 +450,19 @@ A Competitive Programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bucket Sort
 |  |
