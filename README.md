@@ -47,6 +47,7 @@ A Competitive Programming
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -286,6 +287,7 @@ A Competitive Programming
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
@@ -320,6 +322,7 @@ A Competitive Programming
 | [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yididiabera/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -393,6 +396,7 @@ A Competitive Programming
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -407,6 +411,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String Matching
 |  |
