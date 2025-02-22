@@ -46,6 +46,7 @@ A Competitive Programming
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +102,7 @@ A Competitive Programming
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
+| [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -271,6 +273,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0713-subarray-product-less-than-k) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
@@ -396,6 +399,7 @@ A Competitive Programming
 | [0838-design-linked-list](https://github.com/yididiabera/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/yididiabera/Competitive-Programming/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
