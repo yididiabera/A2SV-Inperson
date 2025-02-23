@@ -29,6 +29,7 @@ A Competitive Programming
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/yididiabera/A2SV-Inperson/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
@@ -95,6 +96,7 @@ A Competitive Programming
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/yididiabera/A2SV-Inperson/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/yididiabera/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -140,6 +142,7 @@ A Competitive Programming
 | [0424-longest-repeating-character-replacement](https://github.com/yididiabera/Competitive-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/yididiabera/A2SV-Inperson/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
