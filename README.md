@@ -60,6 +60,7 @@ A Competitive Programming
 | [1720-crawler-log-folder](https://github.com/yididiabera/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/yididiabera/Competitive-Programming/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yididiabera/A2SV-Inperson/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yididiabera/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
@@ -365,6 +366,7 @@ A Competitive Programming
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yididiabera/A2SV-Inperson/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
