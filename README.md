@@ -47,6 +47,7 @@ A Competitive Programming
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/yididiabera/A2SV-Inperson/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/yididiabera/Competitive-Programming/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
@@ -110,6 +111,7 @@ A Competitive Programming
 | [0966-binary-subarrays-with-sum](https://github.com/yididiabera/A2SV-Inperson/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/yididiabera/Competitive-Programming/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1217-relative-sort-array](https://github.com/yididiabera/Competitive-Programming/tree/master/1217-relative-sort-array) |
 | [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -320,6 +322,7 @@ A Competitive Programming
 | [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/yididiabera/Competitive-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/yididiabera/Competitive-Programming/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
