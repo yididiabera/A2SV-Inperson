@@ -159,6 +159,7 @@ A Competitive Programming
 | [1023-time-based-key-value-store](https://github.com/yididiabera/Competitive-Programming/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/yididiabera/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -370,6 +371,7 @@ A Competitive Programming
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yididiabera/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yididiabera/A2SV-Inperson/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
