@@ -47,6 +47,7 @@ A Competitive Programming
 | [0940-fruit-into-baskets](https://github.com/yididiabera/Competitive-Programming/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/yididiabera/A2SV-Inperson/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yididiabera/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/yididiabera/A2SV-Inperson/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/yididiabera/Competitive-Programming/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1138-grumpy-bookstore-owner](https://github.com/yididiabera/Competitive-Programming/tree/master/1138-grumpy-bookstore-owner) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
@@ -405,6 +406,7 @@ A Competitive Programming
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/yididiabera/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/yididiabera/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/yididiabera/A2SV-Inperson/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/yididiabera/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
