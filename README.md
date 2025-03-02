@@ -260,6 +260,7 @@ A Competitive Programming
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yididiabera/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -360,6 +361,7 @@ A Competitive Programming
 | [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/yididiabera/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
