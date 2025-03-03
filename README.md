@@ -27,6 +27,7 @@ A Competitive Programming
 | [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
@@ -196,6 +197,7 @@ A Competitive Programming
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/yididiabera/Competitive-Programming/tree/master/1184-car-pooling) |
@@ -244,6 +246,7 @@ A Competitive Programming
 | [0344-reverse-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yididiabera/Competitive-Programming/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -258,6 +261,7 @@ A Competitive Programming
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
