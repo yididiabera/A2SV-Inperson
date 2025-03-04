@@ -185,6 +185,7 @@ A Competitive Programming
 | [2470-removing-stars-from-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [3055-maximum-odd-binary-number](https://github.com/yididiabera/A2SV-Inperson/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/yididiabera/Competitive-Programming/tree/master/3447-clear-digits) |
 ## Sorting
@@ -277,6 +278,7 @@ A Competitive Programming
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yididiabera/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3055-maximum-odd-binary-number](https://github.com/yididiabera/A2SV-Inperson/tree/master/3055-maximum-odd-binary-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A Competitive Programming
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/yididiabera/A2SV-Inperson/tree/master/3055-maximum-odd-binary-number) |
 ## Bit Manipulation
 |  |
 | ------- |
