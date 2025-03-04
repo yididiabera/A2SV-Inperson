@@ -273,6 +273,7 @@ A Competitive Programming
 | [0890-lemonade-change](https://github.com/yididiabera/A2SV-Inperson/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/yididiabera/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/yididiabera/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/yididiabera/A2SV-Inperson/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/yididiabera/A2SV-Inperson/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/yididiabera/A2SV-Inperson/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yididiabera/Competitive-Programming/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -369,6 +370,7 @@ A Competitive Programming
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
 | [1018-largest-perimeter-triangle](https://github.com/yididiabera/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/yididiabera/A2SV-Inperson/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/yididiabera/Competitive-Programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yididiabera/Competitive-Programming/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/yididiabera/A2SV-Inperson/tree/master/1477-product-of-the-last-k-numbers) |
