@@ -12,15 +12,16 @@ class Solution(object):
         matches = {')':'(', ']':'[', '}':'{'}
         stack = []
 
-        for c in s:
-            if c in matches.values():
-                stack.append(c)
-            elif c in matches.keys():
-                if stack and matches[c] == stack[-1]:
+        for ch in s:
+            if ch in matches.values():
+                stack.append(ch)
+            elif ch in matches.keys():
+                if stack and matches[ch] == stack[-1]:
                     stack.pop()
                 else:
                     return False
             else:
                 return False
-        return not stack
-            
+        
+        return stack == []
+
