@@ -9,6 +9,7 @@ A Competitive Programming
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yididiabera/A2SV-Inperson/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yididiabera/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yididiabera/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -268,6 +269,7 @@ A Competitive Programming
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yididiabera/A2SV-Inperson/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/yididiabera/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/yididiabera/A2SV-Inperson/tree/master/0890-lemonade-change) |
@@ -396,6 +398,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yididiabera/A2SV-Inperson/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yididiabera/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
