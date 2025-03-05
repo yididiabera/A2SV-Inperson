@@ -385,6 +385,7 @@ A Competitive Programming
 | [2491-smallest-even-multiple](https://github.com/yididiabera/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/yididiabera/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2571-find-the-pivot-integer) |
+| [2649-count-total-number-of-colored-cells](https://github.com/yididiabera/Competitive-Programming/tree/master/2649-count-total-number-of-colored-cells) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/yididiabera/Competitive-Programming/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/yididiabera/A2SV-Inperson/tree/master/3055-maximum-odd-binary-number) |
