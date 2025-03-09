@@ -89,6 +89,7 @@ A Competitive Programming
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yididiabera/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3463-alternating-groups-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A Competitive Programming
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yididiabera/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3463-alternating-groups-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
