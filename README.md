@@ -373,6 +373,7 @@ A Competitive Programming
 | [0150-evaluate-reverse-polish-notation](https://github.com/yididiabera/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/yididiabera/A2SV-Inperson/tree/master/0523-continuous-subarray-sum) |
@@ -401,6 +402,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 ## Dynamic Programming
@@ -505,6 +507,7 @@ A Competitive Programming
 | [0021-merge-two-sorted-lists](https://github.com/yididiabera/A2SV-Inperson/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
