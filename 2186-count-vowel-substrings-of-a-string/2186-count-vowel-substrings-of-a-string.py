@@ -8,13 +8,13 @@ class Solution:
         for i in range(len(word)):
             if word[i] in "aeiou":
                 vowel[word[i]] += 1
-                if vowel[word[i]] == 1:
-                    unique_vowel += 1
+                # if vowel[word[i]] == 1:
+                #     unique_vowel += 1
 
-                while unique_vowel == 5:
+                while len(vowel) == 5:
                     vowel[word[k]] -= 1
                     if vowel[word[k]] == 0:
-                        unique_vowel -= 1
+                        del vowel[word[k]]
                     k += 1
                 count += k - j
     
