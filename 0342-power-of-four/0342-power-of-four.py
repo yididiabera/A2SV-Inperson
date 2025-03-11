@@ -10,6 +10,4 @@ class Solution(object):
         while n % 4 == 0:
             n //= 4
 
-        if n == 1:
-            return True
-        return False
+        return n == 1
