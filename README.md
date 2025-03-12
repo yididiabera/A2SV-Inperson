@@ -84,6 +84,7 @@ A Competitive Programming
 | [2551-apply-operations-to-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yididiabera/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/yididiabera/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -323,6 +324,7 @@ A Competitive Programming
 | [1249-snapshot-array](https://github.com/yididiabera/A2SV-Inperson/tree/master/1249-snapshot-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/yididiabera/Competitive-Programming/tree/master/1321-get-equal-substrings-within-budget) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A Competitive Programming
 | [1983-maximum-population-year](https://github.com/yididiabera/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/yididiabera/Competitive-Programming/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2448-count-number-of-bad-pairs](https://github.com/yididiabera/Competitive-Programming/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/yididiabera/Competitive-Programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
 |  |
