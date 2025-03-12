@@ -374,6 +374,7 @@ A Competitive Programming
 | ------- |
 | [0009-palindrome-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yididiabera/Competitive-Programming/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/yididiabera/Competitive-Programming/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yididiabera/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yididiabera/Competitive-Programming/tree/master/0268-missing-number) |
@@ -510,6 +511,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yididiabera/A2SV-Inperson/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/yididiabera/Competitive-Programming/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/yididiabera/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
