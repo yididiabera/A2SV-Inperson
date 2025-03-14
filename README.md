@@ -31,6 +31,7 @@ A Competitive Programming
 | [0442-find-all-duplicates-in-an-array](https://github.com/yididiabera/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yididiabera/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yididiabera/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yididiabera/Competitive-Programming/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/yididiabera/A2SV-Inperson/tree/master/0500-keyboard-row) |
@@ -381,6 +382,7 @@ A Competitive Programming
 | [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yididiabera/Competitive-Programming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/yididiabera/A2SV-Inperson/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/yididiabera/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0919-projection-area-of-3d-shapes](https://github.com/yididiabera/Competitive-Programming/tree/master/0919-projection-area-of-3d-shapes) |
@@ -419,6 +421,7 @@ A Competitive Programming
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yididiabera/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/yididiabera/Competitive-Programming/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1170-shortest-common-supersequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/yididiabera/A2SV-Inperson/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -516,6 +519,7 @@ A Competitive Programming
 | [0234-palindrome-linked-list](https://github.com/yididiabera/A2SV-Inperson/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/yididiabera/Competitive-Programming/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yididiabera/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -587,4 +591,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
