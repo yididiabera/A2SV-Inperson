@@ -577,6 +577,7 @@ A Competitive Programming
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/yididiabera/Competitive-Programming/tree/master/0077-combinations) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yididiabera/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/yididiabera/A2SV-Inperson/tree/master/2107-find-unique-binary-string) |
