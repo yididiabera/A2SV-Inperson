@@ -540,6 +540,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/yididiabera/A2SV-Inperson/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -553,6 +554,7 @@ A Competitive Programming
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/yididiabera/A2SV-Inperson/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/yididiabera/Competitive-Programming/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/yididiabera/A2SV-Inperson/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yididiabera/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -599,4 +601,8 @@ A Competitive Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yididiabera/Competitive-Programming/tree/master/0486-predict-the-winner) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/yididiabera/A2SV-Inperson/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
