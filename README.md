@@ -8,6 +8,7 @@ A Competitive Programming
 | [0015-3sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/yididiabera/Competitive-Programming/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yididiabera/A2SV-Inperson/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yididiabera/Competitive-Programming/tree/master/0075-sort-colors) |
@@ -580,6 +581,7 @@ A Competitive Programming
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yididiabera/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yididiabera/Competitive-Programming/tree/master/0077-combinations) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yididiabera/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
