@@ -95,6 +95,7 @@ A Competitive Programming
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/yididiabera/Competitive-Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/yididiabera/Competitive-Programming/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/yididiabera/Competitive-Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/yididiabera/Competitive-Programming/tree/master/3463-alternating-groups-i) |
 ## Hash Table
@@ -231,6 +232,7 @@ A Competitive Programming
 | [2502-sort-the-people](https://github.com/yididiabera/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/yididiabera/Competitive-Programming/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yididiabera/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3430-count-days-without-meetings](https://github.com/yididiabera/Competitive-Programming/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
