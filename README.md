@@ -205,6 +205,7 @@ A Competitive Programming
 | [3055-maximum-odd-binary-number](https://github.com/yididiabera/A2SV-Inperson/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/yididiabera/Competitive-Programming/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/yididiabera/Competitive-Programming/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yididiabera/A2SV-Inperson/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yididiabera/Competitive-Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
@@ -424,6 +425,7 @@ A Competitive Programming
 | [0342-power-of-four](https://github.com/yididiabera/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/yididiabera/Competitive-Programming/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/yididiabera/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yididiabera/A2SV-Inperson/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A Competitive Programming
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/yididiabera/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/yididiabera/Competitive-Programming/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/yididiabera/A2SV-Inperson/tree/master/2107-find-unique-binary-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yididiabera/A2SV-Inperson/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
